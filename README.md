@@ -23,10 +23,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bs7301&" alt="bs7301" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bs7301&" alt="bs7301" /></p>
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bs7301&show_icons=true&theme=gruvbox&title_color=000000&text_color=b4faaa&bg_color=ffffff&locale=en" alt="bs7301" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bs7301&show_icons=true&theme=gruvbox&title_color=000000&text_color=b4faaa&bg_color=ffffff&locale=en" alt="bs7301" /></p>
 
 
