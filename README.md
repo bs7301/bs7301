@@ -1,8 +1,8 @@
 ### About me
 
 <h1 align="left">Hi 👋, I'm boseong</h1>
-<h3 align="left">studying AI and autonomous driving at Hanseo Univ. in Korea.</h3>
-<h3 align="left">I'm interesting in indoor autonomous driving (Drone or UAV)</h3>
+<h3 align="left">studying Aerospace engineering and Computer Science(ai) at Hanseo Univ. in Korea.</h3>
+<h3 align="left">I'm interesting in autonomous flight (Drone or UAV)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs7301&label=Profile%20views&color=b4faaa&style=flat-square" alt="bs7301" /> </p>
 
