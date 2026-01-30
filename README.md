@@ -1,13 +1,13 @@
 ### About me
 
 <h1 align="left">Hi 👋, I'm boseong</h1>
-<h3 align="left">I'm studying RL / Obstacle Avoidance & Path Planning at GIST(Gwangju Institute of Science and Technology), in Gwangju.</h3>
+<h3 align="left">I'm studying RL / Obstacle Avoidance & Path Planning at GIST(Gwangju Institute of Science and Technology)</h3>
 <h3 align="left">I'm interesting in autonomous flight (Drone or UAV)</h3>
 
 
-- 🌱 currently learning **python, DL/RL, MATLAB**
-
+- 🌱 currently learning **DRL, Path Planning , AI(ML/DL)**
 - 📫 contact me **bs1004kk@gmail.com**
+- My Blog URL : **https://velog.io/@learning_rate/posts** 
 
 <h3 align="left">account:</h3>
 <p align="left">
